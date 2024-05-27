@@ -1,6 +1,11 @@
 """
 License: Apache
 Organization: UNIR
+Team: 3101D
+Hazel
+Abel
+David
+Lilian
 """
 
 import os
@@ -45,7 +50,7 @@ if __name__ == "__main__":
                 word_list.append(line.strip())
     else:
         print(f"El fichero {filename} no existe")
-        word_list = ["ravenclaw", "gryffindor", "slytherin", "hufflepuff"]
+        word_list = ["ravenclaw", "gryffindor", "slytherin", "hufflepuff","howards"]
 
 
     word_occurrences = count_occurrences(word_list)

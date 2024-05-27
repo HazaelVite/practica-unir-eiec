@@ -15,8 +15,9 @@ Los comandos del Makefile funcionarán en Linux y MacOS. En caso de usar Windows
 python3 main.py <filename> <dup>
   filename: **ruta** al fichero que contiene la lista de palabras, una por línea
   dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
-
+  
 Existe un archivo de palabras llamado palabrasFranciscoAbelCoronaLopez.txt que se puede utilizar.
 
-## Miembros del equipo
+## Práctica 01
 
+Creación de cambios para manejo de Pull Request en GitHub
